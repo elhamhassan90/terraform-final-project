@@ -9,6 +9,10 @@ In addition to the infrastructure, this project also includes a custom-designed 
 
 ---
 
+![PROJECT](./screenshots/terraform-pr.png)
+
+---
+
 ## ✅ Main Features
 
 - 🔧 **Infrastructure as Code (IaC)** using **Terraform v1.6+**
